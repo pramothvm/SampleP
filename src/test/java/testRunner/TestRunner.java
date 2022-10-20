@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         glue= {"stepdefinition"},
         dryRun = false,
         plugin =
-                { "pretty","json:target/cucumber-reports/AutoumationReport/priscillareports.html",
+                { "pretty","json:target/cucumber-reports/AutoumationReport/priscillareports.json",
 //              { "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 
 //                {   "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "json:target/cucumber-report.json",
